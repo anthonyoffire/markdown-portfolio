@@ -1,5 +1,5 @@
 ```
-  *Guitar
-  *Metal
-  *Puzzles
+  * Guitar
+  * Metal
+  * Puzzles
 ```
